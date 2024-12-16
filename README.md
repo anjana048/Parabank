@@ -1,2 +1,2 @@
 # Parabank
-manual project
+MANUALPROJECT
